@@ -12,7 +12,7 @@
         <nav class="grid-2">
         <ul id="list">
         <li>
-        <a href="Index.php"> Menu Główne</a>
+        <a href="Index.php"> Menu</a>
         </li>
         <li>
            <a href="AddBook.php">Dodaj Książkę</a> 
