@@ -32,7 +32,7 @@
  
 </form>
         </main>
-        <footer class="grid-3">Jakub Średzki &copy</footer>
+        <footer class="grid-3">Ola Myszkowska &copy</footer>
         <script src="addbook.js"></script>
 </body>
 </html>
