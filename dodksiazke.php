@@ -13,7 +13,7 @@
         <nav class="grid-2">
         <ul id="list">
         <li>
-        <a href="Index.php"> Menu Główne</a>
+        <a href="Index.php"> Menu </a>
         </li>
         <li>
            <a href="AddBook.php">Dodaj Książkę</a> 
@@ -23,11 +23,11 @@
         <main class="grid-4">
   
 <form id="forum">
-        <input type="text" id="tytulname"  class="input" name="tytulname" placeholder="Tytuł książki">
-        <input type="text" id="lname" class="input" name="lname"  placeholder="Imię i nazwisko autora">
+        <input type="text" id="tytulname"  class="input" name="tytulname" placeholder="Tytuł ">
+        <input type="text" id="lname" class="input" name="lname"  placeholder="autor">
         <input type="text" id="isbname" class="input" name="isbname" placeholder="Kod ISBN">
         <input type="date" id="dname" class="input" name="dname">
-        <input type="text" id="ename" class="input" name="ename" placeholder="Ilość egzemplarzy">
+        <input type="text" id="ename" class="input" name="ename" placeholder="Ilość sztuk">
         <input type="submit" value="Dodaj książkę" >
  
 </form>
